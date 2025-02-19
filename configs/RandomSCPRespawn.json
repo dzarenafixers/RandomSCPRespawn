@@ -1,0 +1,9 @@
+{
+  "RespawnChance": 0.3,
+  "ScpRoles": [
+    "Scp049",
+    "Scp096",
+    "Scp173",
+    "Scp939"
+  ]
+}
